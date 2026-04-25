@@ -1,13 +1,24 @@
-# AccessOS Prototype Recreation
+# AccessOS Prototype
 
-Este repositório contém a estrutura inicial para reconstruir o protótipo do Figma página por página.
+Este repositorio guarda uma reconstrução estatica inicial do prototipo AccessOS. Ele ainda nao deve ser tratado como o site principal da Access Platform.
+
+## Status
+
+- Base estatica em HTML, CSS e JavaScript.
+- Telas atuais sao placeholders para reconstrução visual.
+- O projeto precisa das telas finais do Figma para evoluir para uma versao apresentavel.
+
+## Repositorio principal relacionado
+
+O site institucional completo da Access Platform esta no repositorio `accesssite01-91`.
 
 ## Como abrir localmente
 
-Como é uma base estática, basta abrir o `index.html` no navegador.
+Abra `index.html` no navegador.
 
-## Próximos passos
+## Proximos passos
 
-1. Mapear todas as telas do protótipo.
-2. Substituir placeholders por componentes fiéis ao design.
-3. Reproduzir interações e fluxos entre páginas.
+1. Mapear as telas finais do prototipo.
+2. Substituir placeholders por componentes fieis ao design.
+3. Reproduzir interacoes e fluxos entre paginas.
+4. Decidir se este repo continua como prototipo ou se sera arquivado para evitar confusao com o site principal.
